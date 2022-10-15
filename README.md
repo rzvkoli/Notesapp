@@ -15,8 +15,10 @@
 - **React-icons-kit** is uses in this project .
 - **Bootstrap** is uses in this project .
 - The favicon has chaned in this project .
+
 ![01](https://user-images.githubusercontent.com/100797809/196009145-13968ede-5982-4da4-ae38-d7a1d311c1cb.png)
 - **Sweet alert** is used to style popup windows .
+ 
 ![00](https://user-images.githubusercontent.com/100797809/196009091-3dd97f68-c2cf-4037-8d4b-5a0e2d2e1ebc.png)
 
 ## Preview
